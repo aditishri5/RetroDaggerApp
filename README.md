@@ -1,5 +1,5 @@
 # RetroDaggerApp
-RetroDaggerApp - This application uses retrofit, Dagger 2, LiveData, and recycle-viewer to display products, images, and prices.
+RetroDaggerApp - This application is based on MVVM architecture using retrofit, Coroutines, Dagger 2, LiveData, and recycle-viewer to display products, images, and prices.
 
 Screenshot of Output:
 
